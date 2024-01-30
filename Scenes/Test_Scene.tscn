@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://ce2vegctvkwyb"]
+
+[node name="TestScene" type="Node2D"]
+
+[node name="TextEdit" type="TextEdit" parent="."]
+offset_left = 265.0
+offset_top = 202.0
+offset_right = 409.0
+offset_bottom = 266.0
+text = "Sunny was here
+"
